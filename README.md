@@ -254,3 +254,99 @@
 
     </body>
 </html>
+
+
+
+
+
+
+<div id="myBtnContainer">
+          <button class="btn active" onclick="filterSelection('all')"> Show all Face</button>
+          <button class="btn" onclick="filterSelection('Face Primer')"> Face Primers</button>
+          <button class="btn" onclick="filterSelection('Foundation')"> Foundations</button>
+          <button class="btn" onclick="filterSelection('Concealer')"> Concealers</button>
+          <button class="btn" onclick="filterSelection('Highlighter')"> Highlighters</button>
+          <button class="btn" onclick="filterSelection('Contour & Bronzer')"> Contours & Bronzers</button>
+          <button class="btn" onclick="filterSelection('Setting Spray')"> Setting Sprays</button>
+          <button class="btn" onclick="filterSelection('Setting Powder')"> Setting Powders</button>
+          <button class="btn" onclick="filterSelection('Face Moisturizer')"> Face Moisturizers</button>
+        </div>
+        <div class="items">
+          <div class="filterDiv Face Primer"><img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/best-face-primer-fenty-beauty-1528126435.jpg?crop=1xw:1xh;center,top&resize=480:*" width="95">Fenty Beauty</img></div>
+          <div class="filterDiv Face Primer"><img src="https://www.marionnaud.ch/medias/sys_master/front-prd/front-prd/8811217190942/Smashbox-SB-PHOTO-FINISH-PRIMER-LIGHT-0607710004771-Photo-Finish-Primer.jpg" width="95">Smashbox</img></div>
+          <div class="filterDiv Face Primer"><img src="https://cdn.shopify.com/s/files/1/1073/6222/products/Under_Makeup_BAse_2__79707.1433441852.600.600.jpeg?v=1506734607" width="95">Inglot</img></div>
+          <div class="filterDiv Foundation"><img src= "https://www.sephora.com/productimages/sku/s1900836-main-hero.jpg" width="95">Tarte</img></div>
+          <div class="filterDiv Foundation"><img src= "https://www.sephora.com/productimages/sku/s1711951-main-hero.jpg" width="95">Too Faced</img></div>
+          <div class="filterDiv Foundation"><img src= "https://www.sephora.com/productimages/sku/s1925486-main-Lhero.jpg" width="95">Fenty Beauty</img></div>
+          <div class="filterDiv Foundation"><img src= "https://i.pinimg.com/originals/c9/46/7d/c9467df7d7874aeb8f59596cf4b64cef.jpg" width="95">  Kat Von D</img></div>
+          <div class="filterDiv Foundation"><img src= "https://i2.wp.com/bestlifeonline.com/wp-content/uploads/2017/10/bareminerals-bare-pro-performance-wear-foundation-large.jpg?resize=720%2C720&ssl=1" width="95">Bare Minerals</img></div>
+          <div class="filterDiv Foundation"><img src= "https://imgix.bustle.com/uploads/image/2018/4/18/32000f6c-4ece-4ac2-b136-786dd358620a-cclinique.jpg" width="95">Clinique</img></div>
+          <div class="filterDiv Foundation"><img src= "https://i.pinimg.com/originals/67/fe/cd/67fecdc62f5c5e9422004bc0875cd89c.jpg" width="95">Girgio Armani</img></div>
+          <div class="filterDiv Foundation"><img src= "https://m.sephora.ae/catalog/product/cache/3/image/9df78eab33525d08d6e5fb8d27136e95/u/r/urban_decay_3605971198434_main_parent.jpg" width="95">Urban Decay</img></div>
+          <div class="filterDiv Foundation"><img src= "https://images-na.ssl-images-amazon.com/images/I/31F-gUbux8L.jpg" width="95">Marc Jacobs</img></div>
+          <div class="filterDiv Foundation"><img src= "https://i.pinimg.com/originals/04/a9/9e/04a99e353679dd4af7d43fc4ef19591f.jpg" width="95">Bobbi Brown</img></div>
+          <div class="filterDiv Foundation"><img src= "https://cdn-img.health.com/sites/default/files/styles/300x300/public/1490118191/estee-lauder-stay-in-place-makeup.jpg?itok=rDPeype9" width="95">Estée Lauder</img></div>
+          <div class="filterDiv Foundation"><img src= "http://cdn2-www.thefashionspot.com/assets/uploads/gallery/tb-best-foundation-for-oily-skin/07.jpg" width="95">Tarte</img></div>
+          <div class="filterDiv Foundation"><img src= "https://weekender.com.sg/entertainment/wp-content/uploads/2018/02/YSL-ALL-HOURS-FOUNDATION.jpg" width="95">YSL Makeup</img></div>
+          <div class="filterDiv Foundation"><img src= "http://www.shophudabeauty.com/wp-content/uploads/2017/10/17-Baklava.jpg" width="95">Huda Beauty</img></div>
+          <div class="filterDiv Foundation"><img src= "https://images-na.ssl-images-amazon.com/images/I/71LgB-rYDHL._SY355_.jpg" width="95">Milk Makeup</img></div>
+          <div class="filterDiv Foundation"><img src= "https://www.mynavyexchange.com/products/images/xlarge/8073279_0.jpg" width="95">Lancome</img></div>
+          <div class="filterDiv Foundation"><img src= "https://images-na.ssl-images-amazon.com/images/I/31vnMp-nqzL.jpg" width="95">Smashbox</img></div>
+          <div class="filterDiv Face Primer"><img src="https://static.birchbox.com/shop/media/catalog/product/cache/1/small_image/460x460/85e4522595efc69f496374d01ef2bf13/b/e/benefit_pore-fessional_pd_1500x1500.jpg" width="95">Porefessional</img></div>
+          <div class="filterDiv Face Primer"><img src="http://www.sephora.fr/media/catalog_ProductCatalog/m12711225_P2413017_princ_medium.jpg" width="95">Too Faced</img></div>
+          <div class="filterDiv Face Primer"><img src="https://images-na.ssl-images-amazon.com/images/I/41bkOnOgtaL._SY355_.jpg" width="95">Nars</img></div>
+          <div class="filterDiv Face Primer"><img src="https://www.sephora.com/productimages/sku/s1103779-main-zoom.jpg" width="95">Lancome</img></div>
+          <div class="filterDiv Face Primer"><img src="https://static.webshopapp.com/shops/086818/files/152344688/huda-beauty-huda-beauty-complexion-perfection-30ml.jpg" width="95">Huda Beauty</img></div>
+          <div class="filterDiv Face Primer"><img src="https://www.sephora.com/productimages/sku/s1711076-main-hero-300.jpg" width="95">Marc Jacobs</img></div>
+          <div class="filterDiv Face Primer"><img src="https://www.mecca.com.au/on/demandware.static/-/Sites-mecca-online-catalog/default/dwe1b850c5/product/bobbi/hr/i-012557-vitamin-enriched-face-base-1-940.jpg" width="95">Bobbi Brown</img></div>
+          <div class="filterDiv Face Primer"><img src="https://www.maccosmetics.com/media/export/cms/products/640x600/mac_sku_M7LA01_640x600_0.jpg" width="95">MAC Makeup</img></div>
+          <div class="filterDiv Face Primer"><img src="https://cdn.shopify.com/s/files/1/1824/2901/products/MSFP-01_1024x1024.jpg?v=1517860375" width="95">Milani</img></div>
+          <div class="filterDiv Face Primer"><img src="https://images-na.ssl-images-amazon.com/images/I/41yiTFl5laL._SY355_.jpg" width="95">Maybelline</img></div>
+
+
+          <div class="filterDiv Concealer"><img src="https://media.glamour.com/photos/58d98819594519668d13f478/master/w_1250,c_limit/s135301-main-zoom.jpg" width="95">Lancome</img></div>
+          <div class="filterDiv Concealer"><img src="https://www.sephora.com/productimages/sku/s1885631-main-hero.jpg" width="95">Sephora</img></div>
+          <div class="filterDiv Concealer"><img src="https://m.sephora.ae/catalog/product/k/a/kat_von_d_811999027943_main_parent.jpg" width="95">  Kat Von D</img></div>
+          <div class="filterDiv Concealer"><img src="https://media.glamour.com/photos/58daaaf4594519668d13f489/master/w_1250,c_limit/s1840495-main-zoom.jpg" width="95">Becca</img></div>
+          <div class="filterDiv Concealer"><img src="http://www.sephora.fr/media/catalog_ProductCatalog/m10281596_P2095039_princ_la.jpg" width="95">Urban Decay</img></div>
+          <div class="filterDiv Concealer"><img src="http://www.journal.hr/wp-content/uploads/2018/03/Estee-Lauder-Double-Wear-Stay-in-Place-Flawless-Wear-Concealer.jpg" width="95">Estée Lauder</img></div>
+          <div class="filterDiv Concealer"><img src="https://keyassets-p2.timeincuk.net/wp/prod/wp-content/uploads/sites/31/2017/08/nars-creamy-concealer.jpg" width="95">Nars</img></div>
+          <div class="filterDiv Concealer"><img src="https://images.hellogiggles.com/uploads/2017/04/09045334/Tarte.jpg" width="95">Tarte Dead Sea</img></div>
+          <div class="filterDiv Concealer"><img src="https://img.makeupalley.com/1/1/8/1/3266598.JPG" width="95">Colourpop</img></div>
+
+          <div class="filterDiv Highlighter"><img src="https://i.pinimg.com/originals/1c/f4/50/1cf4503fa11e5072d84b25cfca2aff16.jpg" width="95">Anastasia BH</img></div>
+          <div class="filterDiv Highlighter"><img src="https://beta-m.sephora.com/productimages/sku/s1993948-main-zoom.jpg" width="95">Anastasia BH</img></div>
+          <div class="filterDiv Highlighter"><img src="https://s3-us-west-1.amazonaws.com/salla/UxOKC7lHxbkA90pPmESRJbMGwnquk9ChuhcKAZUm.jpeg" width="95">Anastasia BH</img></div>
+          <div class="filterDiv Highlighter"><img src="http://www.belanjamimo.net/image-product/img2445-1457001588.jpg" width="95">Becca</img></div>
+          <div class="filterDiv Highlighter"><img src="https://www.sephora.com/productimages/sku/s1483502-main-hero.jpg" width="95">Hourglass</img></div>
+          <div class="filterDiv Highlighter"><img src="https://i.pinimg.com/originals/94/93/19/949319d9f79f02c61255ae1b0ea0c3be.jpg" width="95">Tarte</img></div>
+          <div class="filterDiv Highlighter"><img src="https://beta-m.sephora.com/productimages/sku/s1902014-main-zoom.jpg" width="95">Too Faced</img></div>
+          <div class="filterDiv Highlighter"><img src="https://www.sephora.com/productimages/sku/s1845346-main-zoom.jpg" width="95">Cover FX</img></div>
+          <div class="filterDiv Highlighter"><img src="https://images-na.ssl-images-amazon.com/images/I/71-jy3wRz%2BL._SL1024_.jpg" width="95">Too Faced</img></div>
+          <div class="filterDiv Highlighter"><img src="https://images-na.ssl-images-amazon.com/images/I/91-mWFGcQWL._SY355_.jpg" width="95">Too Faced</img></div>
+          <div class="filterDiv Highlighter"><img src="https://www.musingsofamuse.com/wp-content/uploads/2018/04/Smashbox-Vlada-Prismatic-Pearl-Petal-Metal-Highlighter.jpg" width="95">Smashbox</img></div>
+          <div class="filterDiv Highlighter"><img src="https://media-at.douglas-shop.com/sgf/at/988067/900_0/BECCA-Highlighter-Shimmering_Skin_Perfector_Pressed.jpg" width="95">Becca</img></div>
+          <div class="filterDiv Highlighter"><img src="http://theartisticsoul.com/wp-content/uploads/2015/04/Highlighter-Guerlain-Meteorites-Compact-in-Medium-62-sephora.com_.jpg" width="95">Guerlain</img></div>
+          <div class="filterDiv Highlighter"><img src="https://m.sephora.ae/catalog/product/k/a/kat_von_d_816657020915_main.jpg" width="95">  Kat Von D</img></div>
+          <div class="filterDiv Highlighter"><img src="https://i.pinimg.com/236x/f6/01/60/f6016042dcc7482ead5a5d91ff080bf5.jpg" width="95">Ciaté</img></div>
+
+          <div class="filterDiv Highlighter"><img src="https://m.sephora.ae/catalog/product/cache/4/image/1800x/040ec09b1e35df139433887a97daa66f/f/e/fenty_816657022452_main.jpg" width="95">Fenty Beauty</img></div>
+          <div class="filterDiv Highlighter"><img src="https://cdn1.thehunt.com/app/public/system/note_images/12052204/note_view/8d766ebd36545988f586d4a8a612e966.jpeg" width="95">Sephora</img></div>
+          <div class="filterDiv Highlighter"><img src="https://images-na.ssl-images-amazon.com/images/I/41oW5l6iGyL._SY355_.jpg" width="95">Nars</img></div>
+          <div class="filterDiv Highlighter"><img src="http://preen.inquirer.net/files/2017/01/stila-e1483346387850.jpg" width="95">Stila</img></div>
+
+          <div class="filterDiv Contour & Bronzer"><img src="https://static-reg.lximg.com/images/pictures/47278/zoom_6c0b24159a72ef68a776a6d8fd4de16f64db2cf8_1493219230_21777_SephoraCollection_Web.jpg" width="95">Sephora</img></div>
+          <div class="filterDiv Contour & Bronzer"><img src="https://media.glamour.com/photos/5696711593ef4b095210fb8b/master/w_1280,c_limit/beauty-2015-08-sephora-contour-palette-main.jpg" width="95">Sephora</img></div>
+          <div class="filterDiv Contour & Bronzer"><img src="https://images-na.ssl-images-amazon.com/images/I/51LRBKM-z0L._SY355_.jpg" width="95">Too Faced</img></div>
+          <div class="filterDiv Contour & Bronzer"><img src="https://static-reg.lximg.com/images/pictures/40759/zoom_d2e09e97159c20de6f61f408d8cacf9912b4b38c_1493199398_17955_BenefitCosmetics_WEB.jpg" width="95">Benefit Cosm.</img></div>
+          <div class="filterDiv Contour & Bronzer"><img src="https://cf3.s3.souqcdn.com/item/2016/02/23/10/11/81/06/item_XL_10118106_12515387.jpg" width="95">Guerlain</img></div>
+          <div class="filterDiv Contour & Bronzer"><img src="https://www.sephora.com/productimages/sku/s1831346-main-Lhero.jpg" width="95">Kevyn Aucoin</img></div>
+
+          <div class="filterDiv Setting Spray">Blue</div>
+          <div class="filterDiv Setting Powder">Cat</div>
+          <div class="filterDiv Face Moisturizer">Dog</div>
+          <div class="filterDiv Contour & Bronzer">Kiwi</div>
+          <div class="filterDiv Highlighter">Banana</div>
+          <div class="filterDiv Concealer">Lemon</div>
+          <div class="filterDiv Setting Spray">Cow</div>
+        </div>
